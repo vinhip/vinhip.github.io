@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "Gas Range",
+      "builder": "Whirlpool",
+      "imagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480",
+      "type":{
+        "name": "Kitchen",
+        "imagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480"
+      }
+      
+    },
+    {
+      "id": 2,
+      "name": "Refrigerator",
+      "builder": "Whirlpool",
+      "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480",
+      "type":{
+        "name": "Laundry",
+        "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Range Hood",
+      "builder": "Whirlpool",
+      "imagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480",
+      "type":{
+        "name": "Mechanical",
+        "imagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Water Heater",
+      "builder": "American Standard",
+      "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480",
+      "type":{
+        "name": "Other",
+        "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+      }
+      
+    }
+  ]
