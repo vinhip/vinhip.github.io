@@ -1,34 +1,118 @@
 [
-    {
-      "id": 1,
-      "name": "Gas Range",
-      "builder": "Whirlpool",
-      "imagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480",
-      "type": "Kitchen",
-      "typeImagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480"
-    },
-    {
-      "id": 2,
-      "name": "Refrigerator",
-      "builder": "Whirlpool",
-      "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480",
-      "type": "Laundry",
-      "typeImagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
-    },
-    {
-      "id": 3,
-      "name": "Range Hood",
-      "builder": "Whirlpool",
-      "imagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480",
-      "type": "Mechanical",
-      "typeImagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480"
-    },
-    {
-      "id": 4,
-      "name": "Water Heater",
-      "builder": "American Standard",
-      "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480",
-      "type": "Other",
-      "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
-    }
-  ]
+ 
+  {
+    "id": 1,
+    "name": "My Home",
+    "address":"3552 Par Drive, Bakersfield, California 93307",
+    "ownerName": "Kiefer Yusingbo",
+    "ownerEmail": "kiefer.yusingbo@interactivepartners.com.au",
+    "ownerPhone": "+1 222-222-2222",
+    "createdAt": "12 June 2023",
+    "buidler":"2010 Construction Supply",
+    "items":[
+      {
+        "id": 1,
+        "name": "Gas Range",
+        "brand": "Whirlpool",
+        "imagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480",
+        "type": "Kitchen",
+        "typeImagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480"
+        
+      },
+      {
+        "id": 2,
+        "name": "Refrigerator",
+        "brand": "Whirlpool",
+        "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480",
+        "type": "Laundry",
+        "typeImagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
+        
+      },
+      {
+        "id": 3,
+        "name": "Range Hood",
+        "brand": "Whirlpool",
+        "imagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480",
+        "type": "Mechanical",
+        "typeImagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480"
+        
+      },
+      {
+        "id": 4,
+        "name": "Water Heater",
+        "brand": "American Standard",
+        "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480",
+        "type": "Other",
+        "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+        
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "My New Home",
+    "address":"132, My Street, Kingston, New York 12401",
+    "ownerName": "Justin Nguyen",
+    "ownerEmail": "justin.nguyen@interactivepartners.com.au",
+    "ownerPhone": "+1 202-688-5500",
+    "createdAt": "01 Jan 2023",
+    "buidler":"STO Building Group, Inc.",
+    "items":[
+      {
+        "id": 5,
+        "name": "Gas Range 1",
+        "brand": "Whirlpool",
+        "imagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480",
+        "type": "Kitchen",
+        "typeImagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480"
+        
+      },
+      {
+        "id": 6,
+        "name": "Refrigerator 1",
+        "brand": "Whirlpool",
+        "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480",
+        "type": "Laundry",
+        "typeImagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
+      },
+      {
+        "id": 7,
+        "name": "Range Hood 1",
+        "brand": "Whirlpool",
+        "imagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480",
+        "type": "Mechanical",
+        "typeImagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480"
+      },
+      {
+        "id": 8,
+        "name": "Water Heater 1",
+        "brand": "American Standard",
+        "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480",
+        "type": "Other",
+        "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+        
+      },
+      {
+        "id": 9,
+        "name": "Refrigerator 2",
+        "brand": "Whirlpool",
+        "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480",
+        "type": "Laundry",
+        "typeImagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
+      },
+      {
+        "id": 10,
+        "name": "Water Heater 2",
+        "brand": "American Standard",
+        "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480",
+        "type": "Other",
+        "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+        
+      }
+    ]
+    
+    
+  }
+
+  
+]
