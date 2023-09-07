@@ -88,7 +88,7 @@
         "name": "Water Heater 1",
         "brand": "American Standard",
         "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480",
-        "type": "Other",
+        "type": "Kitchen",
         "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
         
       },
@@ -105,7 +105,7 @@
         "name": "Water Heater 2",
         "brand": "American Standard",
         "imagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480",
-        "type": "Other",
+        "type": "Kitchen",
         "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
         
       }
