@@ -2,7 +2,7 @@
  
   {
     "id": 1,
-    "name": "My Home",
+    "name": "Bell Cottage",
     "address":"3552 Par Drive, Bakersfield, California 93307",
     "ownerName": "Kiefer Yusingbo",
     "ownerEmail": "kiefer.yusingbo@interactivepartners.com.au",
@@ -50,7 +50,7 @@
   },
   {
     "id": 2,
-    "name": "My New Home",
+    "name": "Corner House",
     "address":"132, My Street, Kingston, New York 12401",
     "ownerName": "Justin Nguyen",
     "ownerEmail": "justin.nguyen@interactivepartners.com.au",
