@@ -60,7 +60,7 @@
     "items":[
       {
         "id": 5,
-        "name": "Gas Range 1",
+        "name": "Gas Range Sony",
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/sZ5CteK2r6E/w=480",
         "type": "Kitchen",
@@ -69,7 +69,7 @@
       },
       {
         "id": 6,
-        "name": "Refrigerator 1",
+        "name": "Refrigerator Canon",
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480",
         "type": "Laundry",
@@ -77,7 +77,7 @@
       },
       {
         "id": 7,
-        "name": "Range Hood 1",
+        "name": "Range Hood Outside",
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/Evlk3fy6QdU/w=480",
         "type": "Mechanical",
@@ -85,7 +85,7 @@
       },
       {
         "id": 8,
-        "name": "Water Heater 1",
+        "name": "Water Heater Québec",
         "brand": "American Standard",
         "imagePath": "https://source.unsplash.com/fwgnat3kLlU/w=480",
         "type": "Kitchen",
@@ -94,7 +94,7 @@
       },
       {
         "id": 9,
-        "name": "Refrigerator 2",
+        "name": "Refrigerator Indoors",
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/Y68HX-z4Mbs/w=480",
         "type": "Laundry",
@@ -102,7 +102,7 @@
       },
       {
         "id": 10,
-        "name": "Water Heater 2",
+        "name": "Water Heater Orlando",
         "brand": "American Standard",
         "imagePath": "https://source.unsplash.com/Hnq8p5ATajg/w=480",
         "type": "Kitchen",
