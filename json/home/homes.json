@@ -8,7 +8,7 @@
     "ownerEmail": "kiefer.yusingbo@interactivepartners.com.au",
     "ownerPhone": "+1 222-222-2222",
     "createdAt": "12 June 2023",
-    "buidler":"2010 Construction Supply",
+    "builder":"2010 Construction Supply",
     "items":[
       {
         "id": 1,
@@ -56,7 +56,7 @@
     "ownerEmail": "justin.nguyen@interactivepartners.com.au",
     "ownerPhone": "+1 202-688-5500",
     "createdAt": "01 Jan 2023",
-    "buidler":"STO Building Group, Inc.",
+    "builder":"STO Building Group, Inc.",
     "items":[
       {
         "id": 5,
