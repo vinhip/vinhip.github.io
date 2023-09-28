@@ -16,6 +16,7 @@
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/3dmD-6PN-hM/w=480",
         "type": "Kitchen",
+        "typeCode": "kitchen",
         "typeImagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480"
         
       },
@@ -25,6 +26,7 @@
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/F5G4YTN5uEQ/w=480",
         "type": "Laundry",
+        "typeCode": "laundry",
         "typeImagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
         
       },
@@ -34,6 +36,7 @@
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/IUuVB1nLsQU/w=480",
         "type": "Mechanical",
+        "typeCode": "mechanical",
         "typeImagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480"
         
       },
@@ -43,6 +46,27 @@
         "brand": "American Standard",
         "imagePath": "https://source.unsplash.com/yZmHFF-g-W0/w=480",
         "type": "Other",
+        "typeCode": "other",
+        "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+        
+      },
+      {
+        "id": 20,
+        "name": "Finishes",
+        "brand": "American Standard",
+        "imagePath": "https://source.unsplash.com/yZmHFF-g-W0/w=480",
+        "type": "Finishes",
+        "typeCode": "finishes",
+        "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+        
+      },
+      {
+        "id": 21,
+        "name": "Other",
+        "brand": "American Standard",
+        "imagePath": "https://source.unsplash.com/yZmHFF-g-W0/w=480",
+        "type": "Other",
+        "typeCode": "other",
         "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
         
       }
@@ -64,6 +88,7 @@
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/sZ5CteK2r6E/w=480",
         "type": "Kitchen",
+        "typeCode": "kitchen",
         "typeImagePath": "https://source.unsplash.com/oCw5_evbWyI/w=480"
         
       },
@@ -73,6 +98,7 @@
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/23coWmkTNSg/w=480",
         "type": "Laundry",
+        "typeCode": "laundry",
         "typeImagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
       },
       {
@@ -81,6 +107,7 @@
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/Evlk3fy6QdU/w=480",
         "type": "Mechanical",
+        "typeCode": "mechanical",
         "typeImagePath": "https://source.unsplash.com/aCniNTiIFd8/w=480"
       },
       {
@@ -89,6 +116,7 @@
         "brand": "American Standard",
         "imagePath": "https://source.unsplash.com/fwgnat3kLlU/w=480",
         "type": "Kitchen",
+        "typeCode": "kitchen",
         "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
         
       },
@@ -98,6 +126,7 @@
         "brand": "Whirlpool",
         "imagePath": "https://source.unsplash.com/Y68HX-z4Mbs/w=480",
         "type": "Laundry",
+        "typeCode": "laundry",
         "typeImagePath": "https://source.unsplash.com/23coWmkTNSg/w=480"
       },
       {
@@ -106,6 +135,27 @@
         "brand": "American Standard",
         "imagePath": "https://source.unsplash.com/Hnq8p5ATajg/w=480",
         "type": "Kitchen",
+        "typeCode": "kitchen",
+        "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+        
+      },
+      {
+        "id": 30,
+        "name": "Finishes",
+        "brand": "American Standard",
+        "imagePath": "https://source.unsplash.com/yZmHFF-g-W0/w=480",
+        "type": "Finishes",
+        "typeCode": "finishes",
+        "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
+        
+      },
+      {
+        "id": 31,
+        "name": "Other",
+        "brand": "American Standard",
+        "imagePath": "https://source.unsplash.com/yZmHFF-g-W0/w=480",
+        "type": "Other",
+        "typeCode": "other",
         "typeImagePath": "https://source.unsplash.com/MAgPyHRO0AA/w=480"
         
       }
