@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "address1":"3551 Par Drive",
+    "address2":"Bakersfield, California 93307",
+    "latitude": -33.8683, 
+    "longitude": 149.2086,
+    "ownerName": "Kiefer Yusingbo",
+    "ownerEmail": "kiefer.yusingbo@interactivepartners.com.au",
+    "ownerPhone": "+1 222-222-2222",
+    "countryCode": "US",
+    "createdAt": "12 June 2023",
+    "builder":"2010 Construction Supply"
+  }
+]
