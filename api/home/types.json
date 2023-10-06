@@ -1,22 +1,22 @@
 [
     {
-      "typeId": 1,
-      "typeCode":"kitchen"
+      "id": 1,
+      "code":"kitchen"
     },
     {
-      "typeId": 2,
-      "typeCode":"laundry"
+      "id": 2,
+      "code":"laundry"
     },
     {
-      "typeId": 3,
-      "typeCode":"mechanical"
+      "id": 3,
+      "code":"mechanical"
     },
     {
-      "typeId": 4,
-      "typeCode":"finishes"
+      "id": 4,
+      "code":"finishes"
     },
     {
-      "typeId": 5,
-      "typeCode":"other"
+      "id": 5,
+      "code":"other"
     }
   ]
