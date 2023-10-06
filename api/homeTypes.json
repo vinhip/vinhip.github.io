@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "typeCode":"kitchen"
+    },
+    {
+      "id": 2,
+      "typeCode":"laundry"
+    },
+    {
+      "id": 3,
+      "typeCode":"mechanical"
+    },
+    {
+      "id": 4,
+      "typeCode":"finishes"
+    },
+    {
+      "id": 5,
+      "typeCode":"other"
+    }
+  ]
