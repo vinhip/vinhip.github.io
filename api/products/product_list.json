@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "category": "Kitchen",
+    "name": "Dishwasher",
+    "description": "Whirlpool"
+  },
+  {
+    "id": "2",
+    "category": "Kitchen",
+    "name": "Gas Range",
+    "description": "Smeg"
+  },
+  {
+    "id": "3",
+    "category": "Kitchen",
+    "name": "Refrigerator",
+    "description": "Smeg"
+  }
+]

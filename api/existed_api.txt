@@ -1,0 +1,31 @@
+1. /api/homeInvite/validate
+
+1.1 Response body needs to include homeId:
+
+
+{"redemption_token":"mYNiI1u3O0+mvHkNAv1IVIfQM60FQ0SAWAupsyqeuzdgUUbo7/vxDMUk5PnGJpoPjDLYR3qShldnyIqQ9tCKXA==",
+"home_id":"210"}
+
+
+1.2 Add Error Types:
+
+a. "Incorrect Code"
+
+{"errorType":"HomeOwnerInvitationInCorrectCode","messageLocalizationKey":"homesphere.homecapture.error-messages.home-owner-incorrect-code","fullErrorMessage":"Incorrect invitation code"}
+
+
+b."Used Code"
+
+{"errorType":"HomeOwnerInvitationInUsedCode","messageLocalizationKey":"homesphere.homecapture.error-messages.home-owner-used-code","fullErrorMessage":"The code has been used"}
+
+
+
+2. /api/auth/register
+
+2.1 Add Error Types:
+
+a. "PhoneNumberTaken"
+
+Error code: UserManagement.Messages.Error.PhoneNumberTaken
+
+
