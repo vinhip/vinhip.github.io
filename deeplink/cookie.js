@@ -1,0 +1,1 @@
+document.cookie = "homecode=123456";
