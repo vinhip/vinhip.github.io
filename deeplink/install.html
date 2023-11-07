@@ -1,31 +1,33 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<script>
 
-//setTimeout(function () { window.location = "https://play.google.com/store/apps/details?id=com.homesphere.homecapture"; }, 25);
-//window.location = "myhomesphere://homesphere.com/#/home-code";
-
-/*
-var now = new Date().valueOf();
-setTimeout(function () {
-    if (new Date().valueOf() - now > 100) return;
-    window.location = "https://play.google.com/store/apps/details?id=com.homesphere.homecapture";
-}, 25);
-window.location = "myhomesphere://homesphere.com/#/home-code";
-*/
-var link = document.getElementById('deeplink');
-for(var i = 0; i < 1; i++){
-    link.click();
-}
-   
-
-</script>
 </head>
 <body>
     <h1>
         <a id="deeplink" href="myhomesphere://homesphere.com/#/home-code">Open App</a>
     </h1>
+
+    <script>
+
+        //setTimeout(function () { window.location = "https://play.google.com/store/apps/details?id=com.homesphere.homecapture"; }, 25);
+        //window.location = "myhomesphere://homesphere.com/#/home-code";
+        
+        /*
+        var now = new Date().valueOf();
+        setTimeout(function () {
+            if (new Date().valueOf() - now > 100) return;
+            window.location = "https://play.google.com/store/apps/details?id=com.homesphere.homecapture";
+        }, 25);
+        window.location = "myhomesphere://homesphere.com/#/home-code";
+        */
+        var link = document.getElementById('deeplink');
+        for(var i = 0; i < 1; i++){
+            link.click();
+        }
+           
+        
+    </script>
 
 </body>
 </html>
