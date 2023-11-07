@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.homesphere.myhomespheremobiledev",
+      "sha256_cert_fingerprints":
+      ["B7:61:B1:69:82:42:13:FD:20:B0:51:95:D6:0F:B0:F4:DE:9B:3F:0C:D3:CF:96:8D:3A:4E:4C:A6:9B:D8:7D:54"]
+    }
+  }]
