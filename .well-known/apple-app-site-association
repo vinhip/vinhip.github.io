@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "com.homesphere.myhomespheremobiledev"],
+             "appIDs": [ "G795QPPWRX.com.homesphere.myhomespheremobiledev"],
              "components": [
                {
                   "#": "no_universal_links",
@@ -18,7 +18,7 @@
        ]
    },
    "webcredentials": {
-      "apps": [ "com.homesphere.myhomespheremobiledev" ]
+      "apps": [ "G795QPPWRX.com.homesphere.myhomespheremobiledev" ]
    }
 
 
