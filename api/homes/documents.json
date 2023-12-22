@@ -1,27 +1,27 @@
 [
     {
       "id": 1,
-      "name": "Winter Maintenance Reminder",
-      "url": "https://raw.githubusercontent.com/JustinChasez/homeowner-app-documents/main/RF29BB890012AA_compressed.pdf",
-      "type":"pdf"
+      "documentName": "Winter Maintenance Reminder",
+      "documentUrl": "https://raw.githubusercontent.com/JustinChasez/homeowner-app-documents/main/RF29BB890012AA_compressed.pdf",
+      "documentType":"pdf"
     },
     {
         "id": 2,
-        "name": "Word Document",
-        "url": "https://filesamples.com/samples/document/docx/sample4.docx",
-        "type":"office"
+        "documentName": "Word Document",
+        "documentUrl": "https://filesamples.com/samples/document/docx/sample4.docx",
+        "documentType":"office"
     },
     {
         "id": 3,
-        "name": "Refrigerator Document",
-        "url": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/bespoke/counter-depth/06202022/rf29bb89008maa/RF29BB89008M_01_Charcoal_Glass_Matte_Black_Steel_SCOM.jpg",
-        "type":"image"
+        "documentName": "Refrigerator Document",
+        "documentUrl": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/bespoke/counter-depth/06202022/rf29bb89008maa/RF29BB89008M_01_Charcoal_Glass_Matte_Black_Steel_SCOM.jpg",
+        "documentType":"image"
     },
     {
         "id": 4,
-        "name": "Excel Document",
-        "url": "https://www.labnol.org/files/excel.xlsx",
-        "type":"office"
+        "documentName": "Excel Document",
+        "documentUrl": "https://www.labnol.org/files/excel.xlsx",
+        "documentType":"office"
     }
 ]
 
